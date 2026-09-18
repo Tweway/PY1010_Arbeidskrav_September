@@ -16,7 +16,7 @@ Golf_vs_Tesla=(FG+TG+DG+BG)-(FT+TT+DT+BT)
 Tekst="""
 Etter å ha sett disse tallene kan vi se at en Golf vil koste oss """ + str(Golf_vs_Tesla)+ """ kr,- mer enn hva en Tesla vil i året, 
 dermed er årlig kosnadsdifferansen mellom en Golf og en Tesla """ +str(Golf_vs_Tesla)+ """ kr,- Dette betyr at det er mer økonomisk å eie en Tesla enn en Golf, 
-spesielt hvis man kjører mye i løpet av året. Dette var bare et eksempel med """ +str(Kilometer_i_året)+ """ km i året.I tillegg til de økonomiske fordelene, 
+spesielt hvis man kjører mye i løpet av året. Dette var bare et eksempel med """ +str(Kilometer_i_året)+ """ km i året. I tillegg til de økonomiske fordelene, 
 har elbiler også miljømessige fordeler som reduserte utslipp og mindre støyforurensning.
 """
 print(Tekst)
