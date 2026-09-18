@@ -16,4 +16,4 @@ jobs:
         with:
           python-version: "3.14"
 
-      - run: python aron.py
+      - run: python Aron.py
